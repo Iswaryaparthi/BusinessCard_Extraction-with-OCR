@@ -41,7 +41,7 @@
 
 * import streamlit as st
 
-### 4. E T L Process
+### 3. E T L Process
 
 #### a) Extract data
 
